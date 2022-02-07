@@ -76,7 +76,7 @@ transform: translateY(-50%);
     transition: all 0.8s ease;
 }
 .google:hover a{
-    color: white;
+    color:#00c6a7;
 }
 
 .form_method{
